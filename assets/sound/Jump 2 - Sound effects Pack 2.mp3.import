@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Jump 2 - Sound effects Pack 2.mp3-53f6c64dd2c5e816a13ea399494bbbe4.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/Jump 2 - Sound effects Pack 2.mp3"
+dest_files=[ "res://.import/Jump 2 - Sound effects Pack 2.mp3-53f6c64dd2c5e816a13ea399494bbbe4.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

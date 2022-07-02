@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/slingshot.png-9749e84623b5740a03a5b3886774a894.stex"
+path="res://.import/godot-2d-angry-birds.apple-touch-icon.png-7d62b8d60a56101012e011af4e17e0ac.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/slingshot.png"
-dest_files=[ "res://.import/slingshot.png-9749e84623b5740a03a5b3886774a894.stex" ]
+source_file="res://exports/html/godot-2d-angry-birds.apple-touch-icon.png"
+dest_files=[ "res://.import/godot-2d-angry-birds.apple-touch-icon.png-7d62b8d60a56101012e011af4e17e0ac.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=false
+flags/filter=true
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2

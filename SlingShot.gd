@@ -28,7 +28,7 @@ func _process(delta):
 		var mouse_position: Vector2 = get_local_mouse_position()	
 		left_line.points[1] = mouse_position
 		
-		left_line.points[1].x = clamp(left_line.points[1].x, -100, 75)
+		left_line.points[1].x = clamp(left_line.points[1].x, -150, 75)
 		left_line.points[1].y = clamp(left_line.points[1].y, -75, 75)
 		
 		right_line.points[1] = left_line.points[1]
