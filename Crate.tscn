@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://assets/Texture/TX Village Props.png" type="Texture" id=1]
+
+[sub_resource type="RectangleShape2D" id=8]
+extents = Vector2( 22, 22 )
+
+[node name="Crate" type="RigidBody2D"]
+position = Vector2( 505, 440 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="Crate" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 42, 19, 45, 45 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource( 8 )
